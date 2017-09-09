@@ -1,4 +1,4 @@
 Java-Repository
 ===============
 
-Depository for Java Projects
+Repository for Java Projects
